@@ -18,6 +18,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## MOOC's
 
+* Coursera's [People Analytics](https://www.coursera.org/learn/wharton-people-analytics) in partnership with Wharton Online
 
 ## Tutorials
 
