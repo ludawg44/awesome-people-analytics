@@ -50,6 +50,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## LinkedIn Accounts
 
+* [David Green](https://www.linkedin.com/in/davidrgreen/) #thoughtleader #author #blogger
 
 ## Twitter Accounts
 
