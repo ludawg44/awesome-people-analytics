@@ -9,6 +9,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Learn People Analytics
 
+* re:Work [People Analytics](https://rework.withgoogle.com/subjects/people-analytics/) from Google
 
 ## Colleges
 
@@ -19,6 +20,9 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 ## MOOC's
 
 * Coursera's [People Analytics](https://www.coursera.org/learn/wharton-people-analytics) in partnership with Wharton Online
+* openSAP's [People Analytics and Evidence-Based Management](https://open.sap.com/courses/pa1-tl) in partnership with SAP
+* eCornell's [HR Analytics](https://ecornell.cornell.edu/certificates/human-resources/hr-analytics/) in parternship with eCornell
+* re:Work 
 
 ## Tutorials
 
@@ -71,6 +75,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Slack Communities
 
+* [People Analytics World](peopleanalytics1.slack.com)
 
 ## Fun
 
