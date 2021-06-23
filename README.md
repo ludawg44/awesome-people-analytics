@@ -40,6 +40,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Books
 
+* [Work Rules! (Insights From Inside Google That Will Transform How You Live and Lead)](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/ref=sr_1_34?dchild=1&keywords=People+Analytics&qid=1624457784&sr=8-34) by Laszlo Bock
 
 ## Socialize
 
