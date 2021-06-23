@@ -28,6 +28,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Toolboxes
 
+* [People Analytics Starter Kit](https://www.linkedin.com/pulse/people-analytics-starter-kit-richard-rosenow/) by Richard Rosenow July 2018
 
 ## Journals, Publications and Magazines
 
@@ -41,6 +42,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 ## Books
 
 * [Work Rules! (Insights From Inside Google That Will Transform How You Live and Lead)](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/ref=sr_1_34?dchild=1&keywords=People+Analytics&qid=1624457784&sr=8-34) by Laszlo Bock
+* [Handbook of Regression Modeling in People Analytics - with examples in R and Python](http://peopleanalytics-regression-book.org/) by Keith McNulty #technical
 
 ## Socialize
 
