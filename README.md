@@ -38,6 +38,9 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Podcasts
 
+* [People Data for Good Podcast](https://podcasts.apple.com/us/podcast/people-data-for-good-podcast/id1298919862) with Al Adamsen
+* [Digital HR Leaders](https://podcasts.apple.com/us/podcast/digital-hr-leaders-with-david-green/id1459322652) with David Green
+* [People Analytics](https://podcasts.apple.com/us/podcast/people-analytics/id1498112650) with Sean Boyce #nolongeractive
 
 ## Books
 
