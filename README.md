@@ -74,7 +74,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Youtube Videos & Channels
 
-* [HR meets science at Google with Prasad Setty](https://www.youtube.com/watch?v=KY8v-O5Buyc) by Prasad Setty, VP of People Analytics & Compensation at Google. November 2014
+* [HR meets science at Google with Prasad Setty](https://www.youtube.com/watch?v=KY8v-O5Buyc) by Prasad Setty, VP of People Analytics & Compensation at Google. November 2014 at re:Work
 * [People Analytics: Using Data to Drive HR Strategy and Action](https://www.youtube.com/watch?v=l6ISTjupi5g&t=230s) by Kathryn Dekas, People Analytics Manager at Google. September 2011 at O'Reilly Strata Jumpstart
 
 ## Slack Communities
