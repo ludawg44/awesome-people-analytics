@@ -40,7 +40,7 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Presentations
 
-* [The People Analytics and Future of WOrk (PAFOW) Podcast with Al and John](https://www.peopleinsight.com/blog/the-people-analytics-and-future-of-work-pafow-podcast-with-al-and-john) on People Insight Workforce Analytics
+* [The People Analytics and Future of Work (PAFOW) Podcast with Al and John](https://www.peopleinsight.com/blog/the-people-analytics-and-future-of-work-pafow-podcast-with-al-and-john) on People Insight Workforce Analytics
 
 ## Podcasts
 
