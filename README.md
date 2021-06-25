@@ -68,6 +68,9 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Twitter Accounts
 
+* @chipro - Chip Huyen focuses on ML production and teaches ML Systems Design at Stanford 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Takeaway from <a href="https://twitter.com/karpathy?ref_src=twsrc%5Etfw">@karpathy</a>&#39;s CVPR talk:<br><br>The most successful ML projects in prod (Tesla, iPhone, Amazon drones, Zipline) are where you own the entire stack.<br><br>They iterate not just ML algorithms but also:<br>- how to collect/label data<br>- infrastructure<br>- hardware ML models run on</p>&mdash; Chip Huyen (@chipro) <a href="https://twitter.com/chipro/status/1407890489697652741?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote>
 
 ## Newsletters
 
