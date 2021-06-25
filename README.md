@@ -89,6 +89,16 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 
 ## Data Sets
 
+## Modern Data Architecture
+
+I personally believe that you can't run a sophisticated People Analytics team without understanding modern data architecture and software engineering principles. You'll never be able to run scalable productionalized machine learning tools like the FAANGs. Here are some seminal articles that elevated my understanding of the area. 
+
+* [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack-2/) by Tristan Handy. December 2020
+* [Need for Speed: Why High Quality Code Matters in Data Science](https://laszlo.substack.com/p/need-for-speed-why-high-quality-code?utm_source=ActiveCampaign&utm_medium=email&utm_content=Engineering+MLOps&utm_campaign=MLOps+-+Newsletter+-+2021+-+06+-+20) by Laszlo Sragner. June 2021
+* [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) by a16z. October 2020
+* [Data Alone is Not Enough: The Evolution of Data Architectures](https://a16z.com/2020/10/22/data-alone-is-not-enough-the-evolution-of-data-architectures/) by Ali Ghodsi and Martin Casado. October 2020
+* [Looking ahead to the future of computing and data infrastructure](https://www.kleinerperkins.com/perspectives/a-2020-perspective/) by Kleiner Perkins Perspective. December 2020. 
+
 
 ## Other Lists
 
