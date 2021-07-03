@@ -56,11 +56,12 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 ## Socialize
 
 
-## Bloggers
+## Blogs and Articles
 
 * [A History of People Analytics in Five Ages](https://www.linkedin.com/pulse/history-people-analytics-five-ages-david-green/?trk=eml-email_series_follow_newsletter_01-hero-1-title_link&midToken=AQGf--SYvrqWBQ&fromEmail=fromEmail&ut=2FKx5TglAIHFM1) by David Green - June 2021
 * [Where is the Future of People Analytics? Not in HR](https://www.linkedin.com/pulse/where-future-people-analytics-hr-peter-romero/) by Peter Romero - April 2021
 * [Systems - Thinking in People Analytics - Or: Exploring the Art of Ripening an Avocado](https://www.linkedin.com/pulse/systems-thinking-people-analytics-exploring-art-ripening-peter-romero/) by Peter Romero - June 2021
+* [People Analytics Career - Do's and Don'ts](https://www.linkedin.com/pulse/people-analytics-career-dos-donts-serena-h-huang-ph-d-/) by Serena Huang - June 2021
 
 ## LinkedIn Accounts
 
