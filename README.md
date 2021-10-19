@@ -62,6 +62,8 @@ This format mimicks [Awesome Data Science](https://github.com/academic/awesome-d
 * [Where is the Future of People Analytics? Not in HR](https://www.linkedin.com/pulse/where-future-people-analytics-hr-peter-romero/) by Peter Romero - April 2021
 * [Systems - Thinking in People Analytics - Or: Exploring the Art of Ripening an Avocado](https://www.linkedin.com/pulse/systems-thinking-people-analytics-exploring-art-ripening-peter-romero/) by Peter Romero - June 2021
 * [People Analytics Career - Do's and Don'ts](https://www.linkedin.com/pulse/people-analytics-career-dos-donts-serena-h-huang-ph-d-/) by Serena Huang - June 2021
+* [Future-Proofing Your Organization](https://hbr.org/2021/09/future-proofing-your-organization) by Michael Mankinns, Eric Garton, and Dan Schwartz - October 2021
+* [Ten New Truths About The HR Technology Market](https://joshbersin.com/2021/09/ten-new-truths-about-the-hr-technology-market/) by Josh Bersinn - September 2021
 
 ## LinkedIn Accounts
 
